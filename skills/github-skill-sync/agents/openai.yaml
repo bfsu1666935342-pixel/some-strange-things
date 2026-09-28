@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Skill 同步"
+  short_description: "安全地把本地 Codex Skill 发布或同步到 GitHub"
+  default_prompt: "使用 $github-skill-sync 将指定的本地 Skill 安全同步到 GitHub。"
