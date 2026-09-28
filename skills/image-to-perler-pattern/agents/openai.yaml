@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片转拼豆图纸"
+  short_description: "把用户图片转换成可打印拼豆网格、颜色图例和用豆数量清单"
+  default_prompt: "使用 $image-to-perler-pattern 将我提供的图片转换成拼豆图纸。"

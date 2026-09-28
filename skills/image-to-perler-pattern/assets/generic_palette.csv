@@ -1,0 +1,49 @@
+code,name,hex
+G01,White,#F7F7F2
+G02,Cream,#F3E5C2
+G03,Light Yellow,#FFE98A
+G04,Yellow,#FFD21F
+G05,Golden Yellow,#F4A900
+G06,Light Orange,#FFB066
+G07,Orange,#F47C20
+G08,Coral,#F26B5B
+G09,Red,#D92D32
+G10,Dark Red,#8F1D2C
+G11,Blush,#F6C0C8
+G12,Pink,#F27BAA
+G13,Hot Pink,#D9368B
+G14,Light Purple,#C7A4E8
+G15,Purple,#7D4BAA
+G16,Dark Purple,#4D2E73
+G17,Lavender,#DDD2F2
+G18,Sky Blue,#8CC8F2
+G19,Blue,#377BC4
+G20,Dark Blue,#1F3F7A
+G21,Navy,#15284D
+G22,Turquoise,#35BFC0
+G23,Cyan,#63D7D2
+G24,Mint,#A7DFC7
+G25,Light Green,#9FD36A
+G26,Green,#45A84F
+G27,Dark Green,#24643A
+G28,Olive,#7E8C3A
+G29,Light Brown,#C99468
+G30,Brown,#8A5638
+G31,Dark Brown,#533526
+G32,Tan,#D8B58C
+G33,Peach,#F5B58D
+G34,Beige,#E5D1B8
+G35,Light Gray,#D5D7D8
+G36,Gray,#92979B
+G37,Dark Gray,#555B60
+G38,Black,#1E2022
+G39,Neon Yellow,#DFFF2F
+G40,Lime,#83D52B
+G41,Teal,#157A7A
+G42,Periwinkle,#758BCB
+G43,Magenta,#A82C78
+G44,Burgundy,#651F3C
+G45,Rust,#A64B2A
+G46,Mustard,#C89F25
+G47,Forest,#194B34
+G48,Chocolate,#3E2B24
